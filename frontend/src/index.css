@@ -1,0 +1,29 @@
+td {
+  background-color: white;
+}
+
+#noBorder {
+  border: none;
+}
+
+#addUserButton {
+  width: 25%;
+  margin-top: 10px;
+}
+
+.deleteButton {
+  width: 100%;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+}
+
+input {
+  width: 50%;
+  padding: 5px;
+  margin: 10px;
+}
